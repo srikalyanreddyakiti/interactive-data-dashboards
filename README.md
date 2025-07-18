@@ -1,5 +1,4 @@
-
-📊 # Power BI Dashboards Repository
+📊 Power BI Dashboards Repository
 This repository contains Power BI dashboards I’ve created and will continue to upload as I build more.
 
 ✅ Currently Includes:
@@ -11,3 +10,4 @@ This repository contains Power BI dashboards I’ve created and will continue to
 
 More dashboards will be added soon.
 
+👨‍💻 Author: Sri Kalyan Reddy Akiti
